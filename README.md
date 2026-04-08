@@ -1,5 +1,7 @@
 # Qryptum DB
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-white.svg)](LICENSE)
+
 Database schema for the Qryptum protocol, built with Drizzle ORM and PostgreSQL.
 
 ## Schema
@@ -39,7 +41,6 @@ Stores off-chain records of shield, unshield, and transfer operations.
 
 ```bash
 cp .env.example .env
-# fill in your DATABASE_URL
 npm install
 npm run push
 ```
@@ -56,4 +57,6 @@ npm run generate
 
 ## License
 
-MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-white.svg)](LICENSE)
+
+Copyright (c) 2026 [wei-zuan](https://github.com/wei-zuan) — see [LICENSE](LICENSE) for full terms.
