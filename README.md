@@ -8,7 +8,7 @@ Database schema for the Qryptum protocol, built with Drizzle ORM and PostgreSQL.
 
 ### vaults
 
-Stores one record per user wallet after their QRYPTANK is created on-chain.
+Stores one record per user wallet after their Qrypt-Safe is created on-chain.
 
 | Column | Type | Description |
 |---|---|---|
